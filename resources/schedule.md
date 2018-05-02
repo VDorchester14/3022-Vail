@@ -48,11 +48,11 @@
 |    |04.11 | [nb23](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb23_SLRinference.ipynb)	    |ISL Ch3    |*Hands on inference in SLR*			|       |	|
 |    |04.13 | [nb24](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb24_MLR.ipynb)    |ISL Ch3    |MLR   						 			| [lec24](https://github.com/dblarremore/csci3022/blob/master/slides/lec24.pdf)      |	|
 |14  |04.16 |	    |ISL Ch3    |Inference in MLR						| [lec25](https://github.com/dblarremore/csci3022/blob/master/slides/lec25.pdf)      |[practicum](https://github.com/dblarremore/csci3022/blob/master/practicum/practicum_FirstName_LastName.ipynb) posted|
-|    |04.18 |	    |           |*Hands on inference in MLR* 			|       |	|
-|    |04.20 |	    |           |ANOVA         							|       |hw6 due|
-|15  |04.23 |	    |           |**ANOVA** 							    |       |	|
-|    |04.25 |	    |           |Logistic Regr. & Classification		|       |	|
+|    |04.18 |	    |           |More MLR and ANOVA I			|       |	|
+|    |04.20 |	    |           |ANOVA II         							| [lec26](https://github.com/dblarremore/csci3022/blob/master/slides/lec26.pdf)      |hw6 due|
+|15  |04.23 |	[nb26](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb26_ANOVA.ipynb) [bonus](https://github.com/dblarremore/csci3022/blob/master/notebooks/nbBonus_ANOVA.ipynb)    |           |**ANOVA + Inference in MLR** 							    |       |	|
+|    |04.25 | [nb27](https://github.com/dblarremore/csci3022/blob/master/notebooks/nb27_LogisticRegression.ipynb)	    |           |Logistic Regr. & Classification		| [lec27](https://github.com/dblarremore/csci3022/blob/master/slides/lec27.pdf)      |	|
 |    |04.27 | 	    |           |**Logistic Regr. & Classification**	|       |	|
-|16  |04.30 |	    |           |Solution Techniques and SGD			|       |	|
+|16  |04.30 | 	    |           |Solution Techniques and SGD			| [lec28](https://github.com/dblarremore/csci3022/blob/master/slides/lec28.pdf)      |	|
 |    |05.2  |	    |           |**FINAL EXAM REVIEW**					 |       |practicum due|
 |X   |05.6  |	    |           |**FINAL EXAM **							 |       ||
